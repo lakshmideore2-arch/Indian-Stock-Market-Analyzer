@@ -137,7 +137,7 @@ Most importantly, this project showed me how programming can be used to answer r
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Indian-Stock-Market-Analyzer.git
+git clone https://github.com/lakshmideore2-arch/Indian-Stock-Market-Analyzer.git
 ```
 
 ### 2. Install the required libraries
